@@ -10,6 +10,9 @@
   - T (Transform):  For each year, summarize the teams they used to play for, personal scores, FG%, FT%, assists and blocks.<br>
   - L (Load): Define the schema then loaded into SQL database for easily control and readability. <br>
 
+<img src="images/ETL1.png">
+
+
 ### ETL#2
 - Background: Use Census API and get the rent affordability and do web scraping to confirm the rent affordability data is in line with the   web scraping data <br>
 
@@ -21,4 +24,4 @@
        (drop NaN and delete      Null data etc) and save csv file <br>
   - L (Load): Define the schema then load into SQL database for easy control and readability. <br>
 
-
+<img src="images/ETL2.png">
